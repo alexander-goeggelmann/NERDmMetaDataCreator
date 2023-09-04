@@ -18,11 +18,11 @@ In order to execute the program, the .py file, follow the following steps:
 If necessary, the proxy value has to be set in the .py file.
 
 The file can be executed with
-- python MetaDataCratorNoProxy.py
+> python MetaDataCreatorNoProxy.py
   
 One can also execute the .py in jupyter, without including any packages (but have to be installed), with the following command:
-- %run MetaDataCreator.py
+> %run MetaDataCreator.py
   
 Eventually, if the .py file is not in the same directory as the working directory, one has to add the absolute or relative path, e.g.:
-- %run ".\path_to_file\MetaDataCreator.py"
+> %run ".\path_to_file\MetaDataCreatorNoProxy.py"
 
