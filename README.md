@@ -1,4 +1,4 @@
-# NERDmMetaDataCreator
+# NERDm MetaData Creator
 User interface to create MetaData in json format based on NIST NERDm
 
 A tool/editor to generate meta data following the NERDm json schma of NIST https://data.nist.gov/od/dm/nerdm/.
