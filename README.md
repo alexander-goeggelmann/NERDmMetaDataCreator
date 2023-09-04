@@ -8,6 +8,7 @@ Also make sure to install the following packages:
 - json
 - tkinter
 - panel
+  
 Following system packages are needed (in general they do not need to be installed):
 
 - os
